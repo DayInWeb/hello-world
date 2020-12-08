@@ -1,2 +1,2 @@
 # hello-world
-for dialogue and learning (I think)
+para el diálogo y aprendizaje (creo)
